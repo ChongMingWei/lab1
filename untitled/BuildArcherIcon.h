@@ -1,0 +1,4 @@
+#ifndef BUILDACHERICON_H
+#define BUILDACHERICON_H
+
+#endif // BUILDACHERICON_H

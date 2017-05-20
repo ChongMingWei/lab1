@@ -1,0 +1,4 @@
+#ifndef BUILDROGUEICON_H
+#define BUILDROGUEICON_H
+
+#endif // BUILDROGUEICON_H
